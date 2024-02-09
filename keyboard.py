@@ -16,4 +16,4 @@ def send_text_as_typing(text):
 
 if __name__ == "__main__":
     # Replace 'Your Text Here' with the text you want to type
-    send_text_as_typing("Confusing pricing, hard to learn, and only 30-day free access. Expensive support, unclear AI enrichment pricing, and limited documentation. Configuring for new databases is a struggle. Needs better resources and UI. Semantic search lacks depth, and direct integration options are few with limited filters")
+    send_text_as_typing("this will be typed in the text box like a human typing it out.")
