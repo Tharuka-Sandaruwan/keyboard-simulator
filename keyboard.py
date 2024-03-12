@@ -15,5 +15,5 @@ def send_text_as_typing(text):
     print("finished")
 
 if __name__ == "__main__":
-    # Replace 'Your Text Here' with the text you want to type
+    # Replace 'Your Text Here' with the text 
     send_text_as_typing("this will be typed in the text box like a human typing it out.")
